@@ -1,7 +1,9 @@
-interface Image
+interface Image;
 
-interface ImageConstraint
+interface ImageConstraint;
 
-interface ImageSequence
+interface ImageSequence;
 
-interface Emoji
+interface ImageGenerator; // casts to ImageSequence? (reduce?)
+  
+interface Emoji;
