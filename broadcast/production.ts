@@ -1,0 +1,12 @@
+interface Production;
+interface StreamingMediaProduction
+interface LiveProduction, RecordedProduction,
+interface StreamingMediaIngest;
+interface StreamingMediaRegistry;
+
+interface VideoRepository
+
+interface BroadcastPackageProduction;
+interface BroadcastPackageChange
+
+interface Broadcast
